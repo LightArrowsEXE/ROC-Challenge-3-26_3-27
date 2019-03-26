@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.background {
+    background: #000;
+    border: 0px solid black;
+    border-radius: 50px;
+    width: 400px;
+    height: 400px;
+}
+.square {
+    border: 1px solid cyan;
+
+    width: 110px;
+    height: 110px;
+    position: absolute;
+
+    display: inline-block;
+}
+
+.number {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+    font-size: 64px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 110px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: black;
+}
+
+#yellow {
+    background: #F1C266;
+    left: 200px;
+    top: 40px;
+}
+
+#green {
+    background: #00B473;
+    left: 200px;
+    top: 150px;
+}
+
+#red {
+    background: #ED5E4E;
+    left: 90px;
+    top: 150px;
+}
+
+#orange {
+    background: #F39766;
+    left: 90px;
+    top: 260px;
+}

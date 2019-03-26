@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+#background{
+    background-color: #CBFEFE;
+    height: 700px;
+    width: 800px;
+}
+
+.month{
+    border-radius: 10px;
+    height: 180px;
+    width: 150px;
+    background-color: #FEFEFE;
+
+    border-width: 5px;
+    border-style: solid;
+    box-shadow: 2px 2px #061704;
+
+    position: absolute;
+    text-align: center;
+
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    vertical-align: middle;
+    font-size: 28px;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+h2 {
+    margin-top: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #656565;
+    line-height: 8px;
+    transform: scale(1, 2);
+}
+
+/* Positions */
+
+/* Horizontal rows */
+.top {
+    top: 60px;
+}
+
+.mid {
+    top: 270px;
+}
+
+.bot {
+    top: 480px;
+}
+
+/* Vertical rows */
+.row1 {
+    left: 60px;
+}
+
+.row2 {
+    left: 240px;
+}
+.row3 {
+    left: 420px;
+}
+
+.row4{
+    left: 600px;
+}
+
+
+/* Colors per month */
+
+#jan{
+    border-color:#02FE03;
+}
+
+#feb{
+    border-color: #C8FD30;
+}
+
+#mar{
+    border-color: #98FE9A;
+}
+
+#apr{
+    border-color: #F9CC6D;
+}
+
+#may{
+    border-color: #949833;
+}
+
+#jun{
+    border-color: #C89894;
+}
+
+#jul{
+    border-color: #32CBCC;
+}
+
+#aug{
+    border-color: #CA66F9;
+}
+
+#sep{
+    border-color: #98CC63;
+}
+
+#oct{
+    border-color: #9999F6;
+}
+
+#nov{
+    border-color: #0399C5;
+}
+
+#dec{
+    border-color: #656565;
+}

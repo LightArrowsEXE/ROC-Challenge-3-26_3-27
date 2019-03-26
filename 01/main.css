@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Quantico');
+
+body{
+    font-family: 'Quantico', sans-serif;
+    font-size: 24px;
+    vertical-align: bottom;
+    text-align: center;
+    line-height: 20px;
+    letter-spacing: 1px;
+    color: white;
+}
+
+.square{
+    height: 120px;
+    width: 120px;
+
+    position: absolute;
+}
+
+.top{
+    color: black;
+    top: 55px;
+    font-size: 26px;
+
+    position: absolute;
+}
+
+.bot{
+    top: 760px;
+    height: 100px;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: normal;
+}
+
+h2{
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+h3{
+    line-height: 15px;
+    font-weight: normal;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+h4{
+    line-height: 0px;
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+h5{
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+h6 {
+    font-size: 18px;
+    opacity: 0.7;
+}
+
+/* Positions */
+
+.row1 {
+    left: 100px;
+}
+
+.row2 {
+    left: 230px;
+}
+
+.row3 {
+    left: 390px;
+}
+
+.row4 {
+    left: 560px;
+}
+
+.row5{
+    left: 720px;
+}
+
+.row6{
+    left: 850px;
+}
+
+.row7{
+    left: 1010px;
+}
+
+/* Box colors */
+
+.purple{
+    background-color: #9A3086;
+}
+
+.dark-purple{
+    background-color: #886BA2;
+}
+
+.dark-blue{
+    background-color: #004B97;
+}
+
+.green{
+    background-color: #009673;
+}
